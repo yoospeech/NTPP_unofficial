@@ -1,0 +1,3 @@
+[submodule "third_party/moss_nano_trainer_unofficial"]
+	path = third_party/moss_nano_trainer_unofficial
+	url = https://github.com/yoospeech/moss_nano_trainer_unofficial.git
